@@ -1,0 +1,209 @@
+body{
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 40px;
+background: #E5E5E5;
+font-family: 'Montserrat', sans-serif;
+
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin:auto;
+    background: #FFFFFF
+    
+
+}
+
+.main-content{
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-right: 40px;
+}
+
+  
+.ma-name{
+font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin-bottom: 8px;
+
+}
+.my-summary{
+font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+   
+}
+
+
+
+
+.about-me{
+    margin-bottom: 40px;
+}
+
+.sidebar {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background: #DFEEFF;
+    width: 370px;
+}
+
+.sidebar-content{
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 80px;
+
+}
+
+.sidebar-titel{
+    font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+color: #161D2A;
+margin-bottom: 8px;
+}
+
+.contacts-cotainer{
+    margin-bottom: 40px;
+
+}
+
+
+.contacts-item{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161D2A;
+
+}
+
+.contacts-link{
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+text-decoration-line: underline;
+
+color: #2979FF;
+}
+
+
+.skils-container{
+    margin-bottom: 40px;
+}
+
+.skils-item{
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #161D2A;
+list-style: disc;
+}
+.soft-skils-item{
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #161D2A;
+list-style: disc
+}
+.skils-list{ 
+    padding-left: 19px;
+}
+
+
+.my-profession{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 8px;
+}
+
+.main-content-title{
+    font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+color: #000000;
+margin-bottom: 8px;
+}
+
+.projects-container{
+margin-bottom: 44px; 
+
+}
+
+.projects-item{
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+list-style: decimal;}
+ 
+.project-link{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+ 
+    text-decoration-line: underline;
+    
+    color: #2979FF;
+
+
+}
+ 
+.projects-tech{
+
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #000000;
+}
+
+.projects-list{
+    padding-left: 18px;
+}
+
+.company-position{font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+        color: #000000;
+        margin-bottom: 12px;
+
+}
+.company-accent{
+    font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+color: #6096FF;
+margin-bottom: 12px;
+margin-top: 12px;
+}
+.company-date{
+    font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+color: #A8A8A8;
+}
